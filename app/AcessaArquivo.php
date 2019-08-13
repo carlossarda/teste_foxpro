@@ -151,7 +151,7 @@ class AcessaArquivo
         if ($classe == "Listagem") return new Listagem();
         if ($classe == "Local") return new Local();
         if ($classe == "Menu") return new Menu();
-        if ($classe == "ModLaudo") return new ModLaudo();
+        if ($classe == "Modlaudo") return new ModLaudo();
         if ($classe == "Municipio") return new Municipio();
         if ($classe == "Parcelas") return new Parcelas();
         if ($classe == "Patolog") return new Patolog();
